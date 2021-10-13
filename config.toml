@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://gb-tobacco.netlify.app/"
 title = "Hugo DPSG"
 languageCode = "de"
 DefaultContentLanguage = "de"

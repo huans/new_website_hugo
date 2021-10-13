@@ -1,107 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://example.com/tags/basic-elements/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/basic-elements/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/basic-elements/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/basic-elements/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>https://gb-tobacco.netlify.app/categories/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/css/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/css/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/development/</loc>
+      <loc>https://gb-tobacco.netlify.app/categories/development/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/html/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/html/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/</loc>
+      <loc>https://gb-tobacco.netlify.app/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/creating-a-new-theme/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/creating-a-new-theme/</loc>
       <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/about/</loc>
+      <loc>https://gb-tobacco.netlify.app/about/</loc>
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/goisforlovers/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/goisforlovers/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/development/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/development/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/hugoisforlovers/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/hugoisforlovers/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/go/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/go/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/golang/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/golang/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/categories/golang/</loc>
+      <loc>https://gb-tobacco.netlify.app/categories/golang/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/hugo/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/hugo/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/templates/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/templates/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/tags/themes/</loc>
+      <loc>https://gb-tobacco.netlify.app/tags/themes/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-      <loc>https://example.com/post/migrate-from-jekyll/</loc>
+      <loc>https://gb-tobacco.netlify.app/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     </urlset>
