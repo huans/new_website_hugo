@@ -1,5 +1,5 @@
 baseurl = "https://gb-tobacco.netlify.app/"
-title = "烟草遗传育种创新团队"
+title = ""
 languageCode = "en-gb"
 DefaultContentLanguage = "en-gb"
 paginate = "10" # Number of posts per page
@@ -31,8 +31,8 @@ theme = "hugo-dpsg"
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
-  title = "Tobacco Genetic and Breeding" # Logo title, otherwise will use site title
-  subtitle = "Welcome to our group site" # Logo subtitle
+  title = "烟草遗传育种创新团队" # Logo title, otherwise will use site title
+  subtitle = "Group of Tobacco Genetic and Breeding" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
@@ -54,15 +54,49 @@ theme = "hugo-dpsg"
 # Custom menu items, normally controlled via front matter in /content files
 [menu]
   [[menu.main]]
-    identifier = "Start"
-    name = "Home"
+    identifier = "home"
+    name = "主页"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "关于"
     url = "/Our history/"
+    weight = 8
+
+ [[menu.main]]
+    identifier = "people"
+    name = "人才队伍"
+    url = "/"
     weight = 2
 
+ [[menu.main]]
+    identifier = "student"
+    name = "研究生培养"
+    url = "/"
+    weight = 6
 
+ [[menu.main]]
+    identifier = "paper"
+    name = "科研成果"
+    url = "/"
+    weight = 5
+
+ [[menu.main]]
+    identifier = "direction"
+    name = "研究方向"
+    url = "/"
+    weight = 3
+
+ [[menu.main]]
+    identifier = "invitation"
+    name = "加入我们"
+    url = "/"
+    weight = 7
+
+ [[menu.main]]
+    identifier = "enviroment"
+    name = "科研条件"
+    url = "/"
+    weight = 4
