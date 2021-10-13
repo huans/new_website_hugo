@@ -1,12 +1,12 @@
 baseurl = "https://gb-tobacco.netlify.app/"
-title = "Hugo DPSG"
-languageCode = "de"
-DefaultContentLanguage = "de"
+title = "烟草遗传育种创新团队"
+languageCode = "en-gb"
+DefaultContentLanguage = "en-gb"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 
 [Author] # Used in authorbox
-  name = "Scout Master"
+  name = ""
   bio = "The Scout Master is the leader of this local scout group"
   avatar = "img/avatar.png"
 
@@ -31,7 +31,7 @@ theme = "hugo-dpsg"
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
   header = "img/header.jpg" # Header image. Path relative to "static"
-  title = "Hugo DPSG" # Logo title, otherwise will use site title
+  title = "Tobacco Genetic and Breeding" # Logo title, otherwise will use site title
   subtitle = "Welcome to our group site" # Logo subtitle
 
 [Params.sidebar]
@@ -54,13 +54,15 @@ theme = "hugo-dpsg"
 # Custom menu items, normally controlled via front matter in /content files
 [menu]
   [[menu.main]]
-    identifier = "start"
-    name = "Start"
+    identifier = "Start"
+    name = "Home"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/Our history/"
     weight = 2
+
+
